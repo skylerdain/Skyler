@@ -4,4 +4,4 @@
 
 [Twitter] (https://www.twitter.com/skyblue_dain) 
 
-![My favorite best friend trio.] (harry.jpeg)
+![My favorite best friend trio.](harry.jpeg)
